@@ -1,5 +1,3 @@
-# fukui-kadai-sakai
-
 
 # 課題内容
 ## section1
